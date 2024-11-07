@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Karan Khatik 👋
 
-<!--
-**Karankhatik/karankhatik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer from Shahdol, Madhya Pradesh, specializing in building web applications using modern JavaScript frameworks. I enjoy working with technologies like Next.js, TypeScript, and Node.js, and I'm passionate about solving problems with technology.
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- Next.js, TypeScript, Node.js, Express, MongoDB
+- Prisma, RESTful APIs, Git, Docker, and more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **TechBlog** - A blog platform built with Next.js and MongoDB for tech enthusiasts.
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/karankhatik)
+- [Twitter](https://twitter.com/karankhatik)
+
+Thanks for stopping by! 🙂
