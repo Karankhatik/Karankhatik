@@ -10,7 +10,7 @@ I'm a full-stack developer from India, specializing in building web applications
 - **TechBlog** - A blog platform built with Next.js and MongoDB for tech enthusiasts.
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/karankhatik)
-- [Twitter](https://twitter.com/karankhatik)
+- [LinkedIn](https://www.linkedin.com/in/karan-khatik)
+- [Twitter](https://x.com/ikarankhatik)
 
 Thanks for stopping by! 🙂
