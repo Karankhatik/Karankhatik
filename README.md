@@ -1,6 +1,6 @@
 # Hi there, I'm Karan Khatik 👋
 
-I'm a full-stack developer from India, specializing in building web applications using modern JavaScript frameworks. I enjoy working with technologies like Next.js, TypeScript, and Node.js, and I'm passionate about solving problems with technology.
+I'm a full-stack developer from India, specializing in building web and mobile applications using modern JavaScript frameworks. I enjoy working with technologies like React.js, TypeScript, and Node.js, and I'm passionate about solving problems with technology.
 
 ### 🔧 Technologies & Tools
 - React.js Next.js, React native JavaScript, TypeScript, Python, Node.js, Express, MongoDB, MySQL
